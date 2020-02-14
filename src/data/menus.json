@@ -1,1 +1,9 @@
-{}
+{
+  "secondary": [
+    {
+      "identifier": "item",
+      "title": "Menu 1",
+      "url": "https://google.com"
+    }
+  ]
+}
